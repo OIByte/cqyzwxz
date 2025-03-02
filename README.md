@@ -4,4 +4,4 @@
 ## What
 用C++放一中校歌
 ## How
-```Beep()```
+```<windows.h>```的```Beep()```
